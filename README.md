@@ -1,3 +1,3 @@
 # Kitchen Sink
 
-Exemplos de aplicações e features desenvolveidas em/usando AngularJS.
+Exemplos de aplicações e features desenvolvidas em/usando AngularJS.
